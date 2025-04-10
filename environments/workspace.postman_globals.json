@@ -1,0 +1,27 @@
+{
+	"id": "a996137d-b9bd-41af-8665-a3dd1a321d31",
+	"values": [
+		{
+			"key": "companyCode",
+			"value": "SN",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "code",
+			"value": "4%2F0AQSTgQHRfZWTZ-m_bpjvFKIGVvtMU6YpPwvzV8XtzH-by_BSAxwMzIbBi9z8ZOxm7xtIsw",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "access_token",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		}
+	],
+	"name": "Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2025-04-10T08:22:42.202Z",
+	"_postman_exported_using": "Postman/11.38.3"
+}
